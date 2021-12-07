@@ -1,0 +1,28 @@
+
+@media only screen and (max-width: 480px) {
+  html,
+  body {
+    height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  }
+
+
+.top_right > ul > li {
+  padding-left: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.home_contact .contact_box p{
+  font-size: 15px;
+}
+.home_contact {
+  display: flex;
+}
+.middel_right{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+}
